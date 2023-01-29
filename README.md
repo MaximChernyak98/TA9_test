@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 robot -d results test_cases/TA9.robot
 ```
 
-### Or Run script using sh-file:
+### Or run script using sh-file:
 
 ```bash
 sh run_tests.sh 
